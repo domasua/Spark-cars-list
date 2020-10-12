@@ -1,0 +1,37 @@
+ <resources> 28
+    <string name="app_name">Cars</string>
+
+     <string name="car_id">
+          <item></item>
+          <item></item>
+          <item></item>
+          <item></item>
+          <item></item>
+          <item></item>
+          <item></item>
+          <item></item>
+          <item></item>
+          <item></item>
+          <item></item>
+          <item></item>
+          <item></item>
+         <item></item>
+         <item></item>
+         <item></item>
+         <item></item>
+         <item></item>
+         <item></item>
+         <item></item>
+         <item></item>
+         <item></item>
+         <item></item>
+         <item></item>
+         <item></item>
+         <item></item>
+         <item></item>
+         <item></item>
+
+
+
+     </string>
+</resources>
